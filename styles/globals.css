@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 
+
 #__next {
   height: 100vh; 
   }
@@ -55,7 +56,7 @@ text{
   opacity: 0;
   margin: 0 auto;
 }
-
+  udated css
 .range::-webkit-scrollbar-thumb {
   -webkit-appearance: none;
   background: #553CDF;
